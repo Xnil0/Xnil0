@@ -15,8 +15,8 @@
 
 <h2>TECHNOLOGIES</h2>
 
-|   |   |   |   |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
 |Frontend|[![FLUTTER](icons/flutter.svg)](https://docs.flutter.dev/)|[![COMPONENTS](icons/components.svg)](https://developer.mozilla.org/fr/docs/Web/API/Web_components)|[![WEBSOCKET](icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)|
 |Databases|[![POSTGRES](icons/postgres.svg)](https://www.postgresql.org)|[![SQLITE](icons/sqlite.svg)](https://sqlite.org/)|[![SQL](icons/sql.svg)](https://sql.sh/)|
 |DevOps|[![DOCKER](icons/docker.svg)](https://www.docker.com/)|[![COMPOSE](icons/compose.svg)](https://docs.docker.com/compose/)|
