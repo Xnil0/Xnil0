@@ -38,10 +38,10 @@
 
 <h2>OPERATING SYSTEMS</h2>
 
-|   |   |   |
-|:-:|:-:|:-:|
-|Base|[![MACOS](icons/macos.svg)]()|[![LINUX](icons/tux.svg)]()|
-|Distros|[![UBUNTU](icons/ubuntu.svg)]()|[![ALPINE](icons/alpine.svg)]()|
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
+|Base|[![LINUX](icons/tux.svg)]()|[![MACOS](icons/macos.svg)]()|
+|Distros|[![ARCH](icons/arch.svg)]()|[![UBUNTU](icons/ubuntu.svg)]()|[![ALPINE](icons/alpine.svg)]()|
 
 
 <section align=center>
