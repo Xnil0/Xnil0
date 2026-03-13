@@ -47,8 +47,8 @@
 
 <section align=center>
   <h2>STATS</h2>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=d4rkj4ck&card_width=400&show_icons=true&rank_icon=percentile&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000" alt="STATS">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkj4ck&card_width=360&layout=compact&langs_count=10&bg_color=00000000" alt="TOP LANG">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Xnil0&card_width=400&show_icons=true&rank_icon=percentile&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000" alt="STATS">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnil0&card_width=360&layout=compact&langs_count=10&bg_color=00000000" alt="TOP LANG">
 </section>
 <br>
 
