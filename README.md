@@ -3,13 +3,14 @@
 # <img align=center alt="Ferris" src="./icons/unsafe.svg"> J0hn, at your service...
 
 <div align=right>
-<h2>PROGRAMMING LANGUAGES</h2>
+<h2>LANGUAGES</h2>
 
 |   |   |
 |:-:|:-:|
 |Frontend|[![DART](icons/dart.svg)](https://dart.dev/docs)|
 |Backend|[![GO](icons/gopher.svg)](https://go.dev)|
-|Systems|[![RUST](icons/ferris.svg)](https://www.rust-lang.org)|
+|System|[![RUST](icons/ferris.svg)](https://www.rust-lang.org)|
+|Database|[![SQL](icons/sql.svg)](https://sql.sh/)|
 
 </div>
 
@@ -18,7 +19,7 @@
 |   |   |   |   |
 |:-:|:-:|:-:|:-:|
 |Frontend|[![FLUTTER](icons/flutter.svg)](https://docs.flutter.dev/)|[![COMPONENTS](icons/components.svg)](https://developer.mozilla.org/fr/docs/Web/API/Web_components)|[![WEBSOCKET](icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)|
-|Databases|[![POSTGRES](icons/postgres.svg)](https://www.postgresql.org)|[![SQLITE](icons/sqlite.svg)](https://sqlite.org/)|[![SQL](icons/sql.svg)](https://sql.sh/)|
+|Databases|[![POSTGRES](icons/postgres.svg)](https://www.postgresql.org)|[![SQLITE](icons/sqlite.svg)](https://sqlite.org/)|
 |DevOps|[![DOCKER](icons/docker.svg)](https://www.docker.com/)|[![COMPOSE](icons/compose.svg)](https://docs.docker.com/compose/)|
 |CLI|[![BASH](icons/bash.svg)](https://www.gnu.org/software/bash/manual/bash.html)|[![GIT](icons/git.svg)](https://git-scm.com/)|[![CARGO](icons/cargo.svg)](https://doc.rust-lang.org/cargo/)|
 |Format|[![JSON](icons/json.svg)](https://www.json.org/json-en.html)|[![TOML](icons/toml.svg)](https://toml.io/en/)|[![YML](./icons/yml.svg)](https://yaml.org)|
