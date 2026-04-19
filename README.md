@@ -44,16 +44,24 @@
 |Base|[![LINUX](icons/tux.svg)]()|[![MACOS](icons/macos.svg)]()|
 |Distros|[![ARCH](icons/arch.svg)]()|[![UBUNTU](icons/ubuntu.svg)]()|[![ALPINE](icons/alpine.svg)]()|
 
-
-<section align=center>
+<div align="right">
   <h2>STATS</h2>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Xnil0&card_width=400&show_icons=true&rank_icon=percentile&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&bg_color=00000000" alt="STATS">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnil0&card_width=360&layout=compact&langs_count=10&bg_color=00000000" alt="TOP LANG">
-</section>
-<br>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xnil0&theme=dark&hide_border=true" alt="STREAK">
+        <br>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xnil0&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="STATS">
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnil0&layout=pie&langs_count=10&include_all_commits=true&theme=dark&hide_border=true" alt="TOP LANG">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<br>
-<div align=center>
+<h2>Fav Code</h2>
+<div>
   <img alt="brain_fuck" src="./brain_fuck.png" width="500px">
 </div>
 
