@@ -54,7 +54,7 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Xnil0&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="STATS">
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xnil0&layout=pie&langs_count=10&include_all_commits=true&theme=dark&hide_border=true" alt="TOP LANG">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Xnil0&layout=donut&langs_count=8&include_all_commits=true&theme=dark&hide_border=true" alt="TOP LANG">
       </td>
     </tr>
   </table>
